@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Telos-FE-study01"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Telos-FE"
+	}
+}

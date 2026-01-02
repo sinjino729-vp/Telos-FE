@@ -1,0 +1,21 @@
+{
+  "name": "telos-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss  -i ./demo2/input.css -o ./demo2/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinjino729-vp/Telos-FE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sinjino729-vp/Telos-FE/issues"
+  },
+  "homepage": "https://github.com/sinjino729-vp/Telos-FE#readme"
+}

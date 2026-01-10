@@ -1,9 +1,11 @@
 {
 	"folders": [
 		{
+			"name": "Telos-FE",
 			"path": "."
 		},
 		{
+			"name": "Telos-FE-study01",
 			"path": "../Telos-FE-study01"
 		}
 	],

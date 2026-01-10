@@ -6,7 +6,8 @@
   "scripts": {
     "watch": "npx tailwindcss  -i ./demo2/input.css -o ./demo2/output.css --watch",
     "watchdemo3": "npx tailwindcss  -i ./demo3/input.css -o ./demo3/output.css --watch",
-    "watchbtvnb7": "npx tailwindcss  -i ./btvnb7/input.css -o ./btvnb7/output.css --watch"
+    "watchbtvnb7": "npx tailwindcss  -i ./btvnb7/input.css -o ./btvnb7/output.css --watch",
+    "watchdemo4": "npx tailwindcss  -i ./demo4npm run /input.css -o ./demo4/output.css --watch"
   },
   "repository": {
     "type": "git",
